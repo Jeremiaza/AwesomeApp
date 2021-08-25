@@ -2,7 +2,7 @@ using System;
 
 namespace AwesomeApp
 {
-    public class WeatherForecast
+    public class Jokes
     {
         public DateTime date { get; set; }
 
